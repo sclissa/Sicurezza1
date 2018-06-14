@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Titolo del documento"
-settings_copyright_copyleft = 'AgID - Team Digitale'
-settings_editor_name = 'AgID - Team Digitale'
+settings_project_name = "Sicurezza"
+settings_copyright_copyleft = 'CMM - Team Digitale'
+settings_editor_name = 'CMM - Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'titolo-documento'
-settings_file_name = 'titolo-documento'
+settings_basename = 'Piano della sicurezza'
+settings_file_name = 'Piano della sicurezza'
 
 # -- No need to change below here
 
